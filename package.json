@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "an e-commerce system for Fawry Rise Journey challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node src/index.js"
+  },
+  "author": "Romany",
+  "license": "ISC"
+}
