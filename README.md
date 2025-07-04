@@ -13,21 +13,21 @@ Choose C when prompted<br>
     &nbsp;🔘 list of products will be displayed.<br>
     &nbsp;🔘 Select product numbers and quantities to add to cart.<br>
     &nbsp;&nbsp;After the selection Type:<br>
-    &nbsp;&nbsp;&nbsp;🔘 'checkout' to finalize your purchase.<br>
-    &nbsp;&nbsp;&nbsp;🔘 'exit' to leave the app without checking out.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔘 'checkout' to finalize your purchase.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔘 'exit' to leave the app without checking out.<br>
   
 2. second section:<br>
       &nbsp;After checkout, you can:<br>
-      &nbsp;&nbsp;🔘 Make another purchase by typing 'Y/y'.<br>
-      &nbsp;&nbsp;🔘 Exit the app by typing 'N/n'.<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🔘 Make another purchase by typing 'Y/y'.<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🔘 Exit the app by typing 'N/n'.<br>
 
 ## Admin Mode
 Choose A when prompted<br>
   1. Enter password: admin<br>
     &nbsp;Options:<br>
-    &nbsp;&nbsp;🔘 list: display all products in pretty format.<br>
-    &nbsp;&nbsp;🔘 add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.<br>
-    &nbsp;&nbsp;🔘 exit: quit admin mode.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;🔘 list: display all products in pretty format.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;🔘 add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;🔘 exit: quit admin mode.<br>
 
 ## covering all Error use cases:
 1. Insufficient Balance<br>
