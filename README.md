@@ -7,43 +7,43 @@ It allows users to shop or manage products from the command line.
  
 ## How to use:
 ## Customer Mode
-  Choose C when prompted<br>
+Choose C when prompted<br>
 1. first section <br>
-    🔘 Enter your name and available balance.<br>
-    🔘 list of products will be displayed.<br>
-    🔘 Select product numbers and quantities to add to cart.<br>
-        After the selection Type:<br>
-          🔘 'checkout' to finalize your purchase.<br>
-          🔘 'exit' to leave the app without checking out.<br>
+    <bt>🔘 Enter your name and available balance.<br>
+    <bt>🔘 list of products will be displayed.<br>
+    <bt>🔘 Select product numbers and quantities to add to cart.<br>
+    <bt><bt>After the selection Type:<br>
+    <bt><bt><bt>🔘 'checkout' to finalize your purchase.<br>
+    <bt><bt><bt>🔘 'exit' to leave the app without checking out.<br>
   
 2. second section:<br>
-      After checkout, you can:<br>
-        🔘 Make another purchase by typing 'Y/y'.<br>
-        🔘 Exit the app by typing 'N/n'.<br>
+      <bt>After checkout, you can:<br>
+      <bt><bt>🔘 Make another purchase by typing 'Y/y'.<br>
+      <bt><bt>🔘 Exit the app by typing 'N/n'.<br>
 
 ## Admin Mode
-  Choose A when prompted<br>
+Choose A when prompted<br>
   1. Enter password: admin<br>
-      Options:<br>
-        🔘 list: display all products in pretty format.<br>
-        🔘 add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.<br>
-        🔘 exit: quit admin mode.<br>
+    <bt>Options:<br>
+    <bt><bt>🔘 list: display all products in pretty format.<br>
+    <bt><bt>🔘 add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.<br>
+    <bt><bt>🔘 exit: quit admin mode.<br>
 
 ## covering all Error use cases:
 1. Insufficient Balance<br>
-    Set the customer's balance to less than the amount he is purchasing.
+  <bt>Set the customer's balance to less than the amount he is purchasing.
 
 2. Expired Product<br>
-    Set product expiry date in the past. 
+  <bt>Set product expiry date in the past. 
 
 3. Empty Cart<br>
-tippically use empty cart. 
+  <bt>tippically use empty cart. 
 
 4. Stock Too Low<br>
-Try adding more than available quantity in more than one operation also in the same card  in the same product.
+   <bt>Try adding more than available quantity in more than one operation also in the same card  in the same product.
 
 5. Error handling<br> 
-data inputs and admin inputs.
+   <bt>data inputs and admin inputs.
 
 and more so try and see...<br>
 ---
