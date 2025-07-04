@@ -9,10 +9,10 @@ It allows users to shop or manage products from the command line.
 ## Customer Mode
 Choose C when prompted<br>
 1. first section <br>
-    <bt>🔘 Enter your name and available balance.<br>
-    <bt>🔘 list of products will be displayed.<br>
-    <bt>🔘 Select product numbers and quantities to add to cart.<br>
-    <bt><bt>After the selection Type:<br>
+    -🔘 Enter your name and available balance.<br>
+    -🔘 list of products will be displayed.<br>
+    -🔘 Select product numbers and quantities to add to cart.<br>
+        -After the selection Type:<br>
     <bt><bt><bt>🔘 'checkout' to finalize your purchase.<br>
     <bt><bt><bt>🔘 'exit' to leave the app without checking out.<br>
   
