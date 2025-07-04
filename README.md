@@ -8,26 +8,26 @@ It allows users to shop or manage products from the command line.
 ## How to use:
 ## Customer Mode
   Choose C when prompted
-  A.first section 
-    1. Enter your name and available balance.
-    2. list of products will be displayed.
-    3. Select product numbers and quantities to add to cart.
-      After the selection Type:
-        a.'checkout' to finalize your purchase.
-        b.'exit' to leave the app without checking out.
+1. first section 
+    🔘 Enter your name and available balance.
+    🔘 list of products will be displayed.
+    🔘 Select product numbers and quantities to add to cart.
+        After the selection Type:
+          🔘 'checkout' to finalize your purchase.
+          🔘 'exit' to leave the app without checking out.
   
-  B. second section:
+2. second section:
       After checkout, you can:
-        a.Make another purchase by typing 'Y/y'.
-        b.Exit the app by typing 'N/n'.
+        🔘 Make another purchase by typing 'Y/y'.
+        🔘 Exit the app by typing 'N/n'.
 
 ## Admin Mode
   Choose A when prompted
   1. Enter password: admin
       Options:
-        a.list: display all products in pretty format.
-        b.add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.
-        c.exit: quit admin mode.
+        🔘 list: display all products in pretty format.
+        🔘 add: walk through steps to add a new product, and at the end, will see a return to the original point after entering the password.
+        🔘 exit: quit admin mode.
 
 ## covering all Error use cases:
 1. Insufficient Balance
